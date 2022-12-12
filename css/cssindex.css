@@ -1,0 +1,27 @@
+body {
+    font-size: 14px;
+    font-family: verdana;
+    background-color: rgb(255, 255, 255);
+}
+
+#isi {
+    color: rgb(0, 0, 0);
+    padding: 200px 200px;
+}
+
+#atas {
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+}
+
+#pm {
+    color: white;
+}
+
+#pl {
+    color: white;
+}
+
+#lg {
+    color: white;
+}
